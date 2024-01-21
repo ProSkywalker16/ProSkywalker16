@@ -1,5 +1,5 @@
 # Promit Chaudhuri
-*Aspiring Developer | Cybersecurity Expert | Lifelong Learner*
+*Aspiring Developer | Aspiring Cybersecurity engineer| Lifelong Learner*
 
 Welcome to my GitHub profile! I'm Promit Chaudhuri, a passionate and aspiring developer with a keen interest in cybersecurity. I'm committed to exploring the ever-evolving world of technology and continuously expanding my skillset. Here, you'll find a glimpse of my journey in the world of programming, web development, and cybersecurity.
 
