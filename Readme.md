@@ -1,18 +1,18 @@
 # Promit Chaudhuri
-*Aspiring Developer | Aspiring Cybersecurity engineer| Lifelong Learner*
+*Aspiring Mobile Application Developer | Aspiring Cybersecurity engineer | UI/UX Developer | Lifelong Learner*
 
-Welcome to my GitHub profile! I'm Promit Chaudhuri, a passionate and aspiring developer with a keen interest in cybersecurity. I'm committed to exploring the ever-evolving world of technology and continuously expanding my skillset. Here, you'll find a glimpse of my journey in the world of programming, web development, and cybersecurity.
+Welcome to my GitHub profile! I'm Promit Chaudhuri, a passionate and aspiring developer with a keen interest in cybersecurity. I'm committed to exploring the ever-evolving world of technology and continuously expanding my skillset. Here, you'll find a glimpse of my journey in the world of programming, android application development, cybersecurity and designing of UI & UX of various platforms.
 
 ## About Me
 - 🎓 Electronics Engineering Graduate, currently pursuing BTech from Academy of Technology, Adisaptagram, India.
 - 💼 Currently exploring opportunities in software development and cybersecurity
 - 🔐 Passionate about enhancing digital security and privacy
-- 🌐 Building web applications and exploring the limitless possibilities of the web
+- 🌐 Building android applications and exploring the limitless possibilities of the mobile domains
 
 ## Social Media Profiles
 - [X (formerly Twitter)](https://twitter.com/ProMitC16)
 - [LinkedIn](https://www.linkedin.com/in/promit-chaudhuri-2979b8274/)
-- [Instagram](https://www.promitchaudhuri.com)
+
 
 ## My Toolbox
 Here are some of the tools and technologies I frequently use:
@@ -24,7 +24,7 @@ Here are some of the tools and technologies I frequently use:
 - Security Auditing
 - Cryptography
 
-- **Tools and skills:** N-map, Hashcat, wireshark, settoolkit, maltego, metasploit, bash shell scripting, linux administration, virtual machine management
+- **Tools and skills:** N-map, Hashcat, wireshark, settoolkit, maltego, metasploit, bash shell scripting, linux administration, virtual machine management using Oracle VirtualBox
 
 
 
@@ -32,7 +32,7 @@ Here are some of the tools and technologies I frequently use:
 - **Frontend:** HTML, CSS, JavaScript, React, Dart(for Flutter)
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB
-- **Frameworks/Libraries:** Bootstrap, Firebase
+- **Frameworks/Libraries:** Bootstrap, Firebase, Flutter
 - **UI/UX:** User Interface designing and prototyping in Figma, Canva etc.
 
 ### Programming Languages
