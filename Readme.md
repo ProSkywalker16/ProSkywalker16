@@ -47,6 +47,9 @@ Here are some of the tools and technologies I frequently use:
 ## Projects
 I believe in learning by doing, and I'm constantly working on personal and collaborative projects. Check out some of my noteworthy repositories and collaborations:
 
+2. [**Coincap**](https://github.com/ProSkywalker16/coincap-app)
+   - CoinCap App is a simple and intuitive cryptocurrency tracking application developed using Google Flutter Framework that allows users to monitor real-time prices, market data, and trends of various cryptocurrencies.(This is my first solo practice app project where I have implemented basic API call feature using a public REST API from coingecko.com).
+
 1. [**ParkEase**](https://github.com/RichPerspective007/parkeaseapp)
    - A smart parking base system, made in collaboration with my friends, a proposal project for the Government of India.
    
