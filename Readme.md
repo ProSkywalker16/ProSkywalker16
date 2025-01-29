@@ -31,7 +31,6 @@ Here are some of the tools and technologies I frequently use:
 ### App Development and Design
 - **Frontend:** HTML, CSS, JavaScript, React, Dart(for Flutter)
 - **Backend:** Node.js, Express.js
-- **Databases:** MongoDB
 - **Frameworks/Libraries:** Bootstrap, Firebase, Flutter
 - **UI/UX:** User Interface designing and prototyping in Figma, Canva etc.
 
