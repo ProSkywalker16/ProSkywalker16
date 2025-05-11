@@ -24,13 +24,13 @@ Here are some of the tools and technologies I frequently use:
 - Security Auditing
 - Cryptography
 
-- **Tools and skills:** N-map, Hashcat, wireshark, settoolkit, maltego, metasploit, bash shell scripting, linux administration, virtual machine management using Oracle VirtualBox
+- **Tools and skills:** N-map, Hashcat, wireshark, maltego, john the ripper, hydra, BurpSuite, hashcat, bash shell scripting, linux administration, virtual machine management using VMWare Workstation
 
 
 
 ### App Development and Design
 - **Frontend:** HTML, CSS, JavaScript, React, Dart(for Flutter)
-- **Backend:** Node.js, Express.js
+- **Backend:** Flask, Firebase
 - **Frameworks/Libraries:** Bootstrap, Firebase, Flutter
 - **UI/UX:** User Interface designing and prototyping in Figma, Canva etc.
 
@@ -39,6 +39,8 @@ Here are some of the tools and technologies I frequently use:
 - Java
 - C++
 - C
+- Java
+- Javascript
 
 ### Version Control
 - Git & GitHub
