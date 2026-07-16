@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Promit+Chaudhuri;Cybersec+%26+Network+Infrastructure;SIEM+%7C+Layer-2+Security+%7C+Automation;TryHackMe+Top+4%25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Promit+Chaudhuri;Cybersec+%26+Network+Infrastructure;SIEM+%7C+Layer-2+Security+%7C+Automation;TryHackMe+Top+2%25" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/promit-chaudhuri-2979b8274"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ProSkywalker16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:chaudhuripromit16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/TryHackMe-Top_4%25-00D4AA?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <a href="https://tryhackme.com/p/proskywalker16"><img src="https://img.shields.io/badge/TryHackMe-Top_4%25-00D4AA?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 🏢 Completed enterprise internship at **IIT-KGP Research Park** — delivered security training to 50+ OT professionals
 - ⚙️ Built automation workflows reducing manual effort by **~40%**
 - 🏆 **2nd Place** — CYNOX Season 2 CTF (2025) | **Hack4Bengal 4.0** finalist
-- 📈 **TryHackMe Top 4% globally** — continuous hands-on learning
+- 📈 **TryHackMe Top 2% globally** — continuous hands-on learning
 
 ---
 
@@ -89,7 +89,7 @@
 | Achievement | Detail |
 |---|---|
 | 🥈 **2nd Place** | CYNOX Season 2 CTF (2025) — 6,470 points in 3 hours |
-| 🔝 **Top 4%** | TryHackMe Global Ranking |
+| 🔝 **Top 2%** | TryHackMe Global Ranking |
 | 🥇 **1st Place** | UXPLORE UI/UX Competition (2024-25) |
 | 🎯 **Finalist** | Hack4Bengal 4.0 |
 
@@ -98,7 +98,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProSkywalker16&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProSkywalker16&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProSkywalker16&theme=dark&hide_border=true&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" width="48%" />
 </p>
 
@@ -117,5 +117,6 @@
 <p align="center">
   <i>"May the Force be with you — in your network and your code."</i>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ProSkywalker16&label=Profile%20Views&color=00D4AA&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ProSkywalker16&label=Profile%20Views&color=1E90FF&style=flat" />
 </p>
+
