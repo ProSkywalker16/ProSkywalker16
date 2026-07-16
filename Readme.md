@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/promit-chaudhuri-2979b8274"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ProSkywalker16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:chaudhuripromit16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/proskywalker16"><img src="https://img.shields.io/badge/TryHackMe-Top_4%25-00D4AA?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/proskywalker16"><img src="https://img.shields.io/badge/TryHackMe-Top_2%25-1E90FF?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
 ---
@@ -60,11 +60,21 @@
 
 ## 📌 Featured Projects
 
-### 🔭 [Obi-Watch-Kenobi](https://github.com/ProSkywalker16/obi-watch-kenobi) — SIEM & EDR Monitoring Platform
-`Hack4Bengal 4.0 Hackathon Project`
-- Centralized log collection, parsing, and correlation pipeline for Linux infrastructure
-- Reduced manual analysis time by **~30%** with automated alert escalation playbooks
-- Secure authentication (bcrypt), token-based sessions, CLI-based dashboards
+### 🔭 [Obi-Watch-Kenobi](https://github.com/ProSkywalker16/obi-watch-kenobi) — AI-Powered SIEM & EDR Platform
+`Hack4Bengal 4.0 Hackathon Project` | `Team MadMaxDevelopers`
+A lightweight, AI-powered SIEM & EDR application for real-time intrusion detection, intelligent response, and secure log monitoring — built for defenders.
+
+**Key Features:**
+- **Real-Time Log Dashboard** — visualize logs categorized by severity
+- **AI-Powered Playbooks** — automated response actions (block, quarantine, alert) triggered by severity & IP behavior
+- **Gemini Chatbot Integration** — query logs with natural language for intelligent summaries
+- **Distributed over Netbird** — connect remote agents and databases across virtual private networks
+- **File Tamper Detection** — detect and revert changes to critical files
+- **MariaDB-Backed Storage** — logs, actions, and users stored securely
+
+**Tech Stack:** ReactJS, TailwindCSS, Flask, MariaDB, Gemini API, Netbird
+
+Distributed architecture connecting remote agents for small to medium-sized network security with minimal overhead.
 
 ### 📊 [Log-Tracker](https://github.com/ProSkywalker16/log-tracker) — Secure Distributed Log Monitoring
 - Python-based automated log collection & analysis with Flask REST APIs
@@ -99,7 +109,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProSkywalker16&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProSkywalker16&theme=dark&hide_border=true&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProSkywalker16&theme=dark&hide_border=true&background=0d1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" width="48%" />
 </p>
 
 ---
