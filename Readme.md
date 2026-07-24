@@ -58,6 +58,14 @@
 
 ---
 
+## 🛡️ Cybersecurity Projects & Proof of Work
+
+### 🛡️ [Detecting & Stopping Attacks with Snort NIDS/NIPS](https://app.notion.com/p/Detecting-and-stopping-Attacks-with-Snort-3a6d406319488011ab62eefaf98473fe?source=copy_link)
+`Network Security` | `Intrusion Detection & Prevention` | `Rule Engineering`
+A comprehensive hands-on documentation detailing the deployment, configuration, and practical rule writing for Snort. Demonstrates real-time detection, logging, and blocking of common network attacks to strengthen active network defense.
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔭 [Obi-Watch-Kenobi](https://github.com/ProSkywalker16/obi-watch-kenobi) — AI-Powered SIEM & EDR Platform
@@ -129,4 +137,3 @@ Distributed architecture connecting remote agents for small to medium-sized netw
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=ProSkywalker16&label=Profile%20Views&color=1E90FF&style=flat" />
 </p>
-
