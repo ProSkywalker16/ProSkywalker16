@@ -63,7 +63,11 @@
 ### 🛡️ [Detecting & Stopping Attacks with Snort NIDS/NIPS](https://app.notion.com/p/Detecting-and-stopping-Attacks-with-Snort-3a6d406319488011ab62eefaf98473fe?source=copy_link)
 `Network Security` | `Intrusion Detection & Prevention` | `Rule Engineering`
 A comprehensive hands-on documentation detailing the deployment, configuration, and practical rule writing for Snort. Demonstrates real-time detection, logging, and blocking of common network attacks to strengthen active network defense.
+### 🔐 [The Anatomy of HTTPS – Building, Attacking, Inspecting & Understanding SSL/TLS](https://app.notion.com/p/The-Anatomy-of-HTTPS-Building-attacking-inspecting-understanding-SSL-TLS-3acd4063194880e0aea9c3e11a79cce7)
+`Cryptography` | `SSL/TLS` | `HTTPS Security` | `Wireshark` | `MITM Analysis`
+A comprehensive hands-on research and laboratory documentation exploring the complete lifecycle of HTTPS communication. Covers PKI and certificate generation, RSA-based key exchange concepts, TLS handshakes, secure HTTPS deployment, Man-in-the-Middle interception, Wireshark packet analysis, certificate inspection, TLS session decryption using SSLKEYLOGFILE, and practical analysis of encrypted versus decrypted traffic in a controlled cybersecurity lab environment.
 
+---
 ---
 
 ## 📌 Featured Projects
